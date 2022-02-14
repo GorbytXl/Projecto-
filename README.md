@@ -2,4 +2,4 @@
 
 Me gustaria invitarlos a que escriban
 
-awa de uwu and chepa kola
+por eso ella no te ama
