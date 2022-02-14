@@ -129,10 +129,10 @@ public class FXMLDocumentController implements Initializable {
             pst.setString(3, txtEmail.getText());
             int res = pst.executeUpdate();
             if (res >0){
-                JOptionPane.showMessageDialog(null,"Datos ingresados");
+                JOptionPane.showMessageDialog(null,"Datos ingresados Correctamente");
                 limpiarCajas();
             }else{
-                JOptionPane.showMessageDialog(null,"FAllo");
+                JOptionPane.showMessageDialog(null,"FAllO");
                 limpiarCajas();
             }
             conn.close();
