@@ -35,7 +35,7 @@ import db.mysqlconnect;
 
 /**
  *
- * @author Adrian Triviño
+ 
  */
 public class inicioViewController implements Initializable {
     
