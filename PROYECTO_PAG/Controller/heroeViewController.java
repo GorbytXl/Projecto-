@@ -32,7 +32,7 @@ import db.mysqlconnect;
 /**
  * FXML Controller class
  *
- * @author Adrian Triviño
+
  */
 public class heroeViewController implements Initializable {
 
