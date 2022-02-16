@@ -111,7 +111,7 @@ public class heroeViewController implements Initializable {
                 txtPri.setText(rs.getString(4));
 
             } else {
-                JOptionPane.showMessageDialog(null, "USUARIO O CONTRASEÑA INCORRECTO ");
+                JOptionPane.showMessageDialog(null, "USUARIO O CONTRASEÑA INCORRECTO! ");
 
             }
 
